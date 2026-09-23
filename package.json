@@ -13,8 +13,7 @@
   },
   "license": "MIT-0",
   "dependencies": {
-    "express": "^4.22.2",
-    "lodash": "4.17.15"
+    "express": "^4.22.2"
   },
   "devDependencies": {
     "mocha": "10.8.2",
